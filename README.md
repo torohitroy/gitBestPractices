@@ -1,2 +1,0 @@
-# gitBestPractices
-okay got it
